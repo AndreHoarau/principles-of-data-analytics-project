@@ -8,7 +8,7 @@ Project Aim: This project aims to investigate the [Palmer Penguins Data Set](htt
 * Visual Studio Code available [here](https://code.visualstudio.com/)
 
 ## Table of contents
-- [Introduction to Palmer Penguins Data Set](#Palmer-Penguins-Introduction)
+- [Introduction to Palmer Penguins Data Set](#penguins.ipynb/Palmer-Penguins-Introduction)
 - [Load Data](#Load-Data)
 - [Inspect Data](#Inspect-Data)
 - [Bar Chart](#Bar-Chart)
