@@ -7,8 +7,8 @@ Project Aim: This project aims to investigate the ![Palmer Penguins Data Set](ht
 * Python 3.11.5 available [here](https://www.anaconda.com/download)
 * Visual Studio Code available [here](https://code.visualstudio.com/)
 
-## Tahle of contents
-- [Introduction to Palmer Penguins Data Set](Palmer-Penguins-Introduction)
+## Table of contents
+- [Introduction to Palmer Penguins Data Set](#princinples-of-data-analytics-projectPalmer-Penguins-Introduction)
 - []()
 - []()
 - []()
