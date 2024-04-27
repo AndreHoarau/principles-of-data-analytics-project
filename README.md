@@ -7,6 +7,7 @@ Project Aim: This project aims to investigate the [Palmer Penguins Data Set](htt
 ## Technologies
 * Python 3.11.5 available [here](https://www.anaconda.com/download)
 * Visual Studio Code available [here](https://code.visualstudio.com/)
+* Note: Installation instructions are included at both addresses.
 
 ## Table of contents
 - [Introduction to Palmer Penguins Data Set](#Palmer-Penguins-Introduction)
@@ -15,11 +16,9 @@ Project Aim: This project aims to investigate the [Palmer Penguins Data Set](htt
 - [Bar Chart](#Bar-Chart)
 - [Histogram](#Histogram)
 - [Two Variable Correlation Analysis](#Two-Variable-Correlation-using-Seaborn)
-- []()
-- []()
 
--
--
+## How to run the notebook:
+Once you have the notebook on your local machine you simply can do ctrl shift p and select the command to restart the kernel and run all the cells.
 
 
 
