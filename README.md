@@ -10,12 +10,12 @@ Project Aim: This project aims to investigate the [Palmer Penguins Data Set](htt
 * Note: Installation instructions are included at both addresses.
 
 ## Table of contents
-- [Introduction to Palmer Penguins Data Set](#Palmer-Penguins-Introduction)
-- [Load Data](#Load-Data)
-- [Inspect Data](#Inspect-Data)
-- [Bar Chart](#Bar-Chart)
-- [Histogram](#Histogram)
-- [Two Variable Correlation Analysis](#Two-Variable-Correlation-using-Seaborn)
+- Introduction to Palmer Penguins Data Set
+- Load Data
+- Inspect Data
+- Bar Chart
+- Histogram
+- Two Variable Correlation Analysis
 
 ## How to run the notebook:
 Once you have the notebook on your local machine you simply can do ctrl shift p and select the command to restart the kernel and run all the cells.
